@@ -2,9 +2,11 @@
 
 <br/>
 
-Weather app is developed using React.js and material-UI. User can search locations by city name and observe the weather.
+[Weather App](https://weather-app-reactjs-openweather.netlify.app/) app is developed using React.js and OpenWeatherMap API. User can search locations by city name and observe the weather.
 
 # Weather App:
+
+Link: https://weather-app-reactjs-openweather.netlify.app/
 
 - This is a weather application developed with React that utilizes APIs to provide real-time weather information.
 
