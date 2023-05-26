@@ -33,7 +33,7 @@ Link: https://weather-app-reactjs-openweather.netlify.app/
 In the terminal run these commands:
 
 ```
-git clone https://github.com/amandeep2326/Weather-App-Openweather.git
+git clone https://github.com/amandeep2326/Weather-App-by-React.git
 npm i
 npm start
 ```
